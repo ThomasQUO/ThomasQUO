@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ThomasQUO
+- 👀 I’m interested in IP/IT law 
+- 🌱 I’m currently wollowing the CS50 for lawyers course
